@@ -31,3 +31,4 @@ This project explores and visualizes the Netflix Movies and TV Shows dataset usi
 3. Install the required libraries:
    ```bash
    pip install pandas matplotlib seaborn
+4. Run the script
